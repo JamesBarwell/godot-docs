@@ -84,7 +84,11 @@ Your scene tree and viewport should look like this.
 
 .. image:: img/signals_09_scene_setup.png
 
-Save your newly created scene. You can then run it with :kbd:`F6`.
+Save your newly created scene. 
+
+In the FileSystem dock, right click on your new scene file and select "Set As Main Scene".
+
+You can then run it with :kbd:`F6`.
 
 Connecting a signal in the editor
 ---------------------------------
